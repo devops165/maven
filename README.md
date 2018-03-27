@@ -3,4 +3,4 @@ Maven + Spring MVC Web Project Example
 
 Test change
 
-tt
+thi is to check for automated maven project in jenkins
